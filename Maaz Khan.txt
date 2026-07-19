@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Maaz Khan Zada</h1>
+
+    <h3>Student BSDFCS</h3>
+
+    <p>
+        Welcome to my first web project.
+        This project is created for Git & GitHub Lab Task.</p>
+
+        
+    </div>
