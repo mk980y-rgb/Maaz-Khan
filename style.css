@@ -1,0 +1,18 @@
+.myheading{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    background-color: #F7BF68; 
+}
+.myheading h1{
+    font-size: 60px;
+    color: #333;
+    margin-bottom: 10px;
+}
+.whatsapp {
+    background-color: #25D366;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+}
